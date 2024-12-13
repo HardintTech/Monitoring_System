@@ -1,0 +1,15 @@
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+c:\Users\alexa\OneDrive\Documents\Git\Monitoring_System\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
